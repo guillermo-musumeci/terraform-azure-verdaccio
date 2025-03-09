@@ -5,6 +5,8 @@
 
 Deploying Verdaccio in Azure using Terraform
 
+Blog --> https://medium.com/@gmusumeci/how-to-deploy-verdaccio-in-azure-using-terraform-ce348332b5fe
+
 ## Code creates:
 
 - Resource Group
